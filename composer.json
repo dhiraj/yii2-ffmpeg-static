@@ -1,0 +1,22 @@
+{
+    "name": "dhiraj/yii2-ffmpeg-static",
+    "description": "Provides static ffmpeg binaries for windows, linux and mac x86_64 platforms with a convenient path lookup for both ffmpeg and ffprobe.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhiraj Gupta",
+            "email": "dhiraj@traversient.com"
+        }
+    ],
+    "require": {
+        "php": "~7.1",
+        "yiisoft/yii2": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "traversient\\yii\\": ""
+        }
+    }
+}
+
