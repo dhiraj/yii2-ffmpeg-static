@@ -27,8 +27,8 @@
       <file leaf-file-name="FFMPEGStatic.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FFMPEGStatic.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="480">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
               <folding>
                 <element signature="e#118#141#0#PHP" expanded="true" />
               </folding>
@@ -45,6 +45,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/FFMPEGStatic.php" />
       </list>
     </option>
   </component>
@@ -130,12 +131,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502962266909</updated>
-      <workItem from="1502962268094" duration="81000" />
+      <workItem from="1502962268094" duration="304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81000" />
+    <option name="totallyTimeSpent" value="304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1080" height="1893" extended-state="6" />
@@ -181,8 +182,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FFMPEGStatic.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="480">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding>
             <element signature="e#118#141#0#PHP" expanded="true" />
           </folding>
